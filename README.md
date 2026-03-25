@@ -8,4 +8,4 @@ This is my first GitHub repository created for learning GitHub.
 - Uploaded sample file
 
 ## Author
-RethanyaT
+Rethanya S
